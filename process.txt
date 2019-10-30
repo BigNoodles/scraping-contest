@@ -1,4 +1,6 @@
-Thought process:
+Celebrity Scraper
+for questions, email damianhamilton25@hotmail.com
+
 
 Immediately after opening the zip file, I noticed that the names I recognized 
 all seemed to have something to do with the history of Computer Science.
